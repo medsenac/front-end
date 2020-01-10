@@ -1,0 +1,46 @@
+page-home {
+    .titulo{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+        }
+        
+        .align{
+            display: flex;    
+          }
+        .foto{
+            
+            width: 100px;
+            height: 100px;
+            
+            
+        }
+        .texto{  
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 15px;
+            line-height: 15px;
+           
+            margin-bottom: 4px;  
+        }
+        .textofinal{
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 15px;
+            line-height: 15px;
+           
+        }
+      .subtitulo{
+          text-align: center;
+          font-family: Roboto;
+          font-style: normal;
+          font-weight: normal;                
+          font-size: 25px;
+          border-top: solid 2px grey;
+          border-bottom: solid 2px grey;
+          padding-top: 5px;
+          padding-bottom: 5px;            
+          
+      }
+     
+}
