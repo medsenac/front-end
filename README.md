@@ -1,5 +1,6 @@
 # front-end
 
+<h1>NA PASTA PAGES FICAM AS PÁGINAS QUE NÃO POSSUEM O MENU INFERIOR</h1>
 <h4>Página cadastro serve para cadastrar administrador</h4>
 <h4>Página cadastrar cadastra Paciente.</h4>
 <h4>Página editadm edita os dados do administrador.</h4>
